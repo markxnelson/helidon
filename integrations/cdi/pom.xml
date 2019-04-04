@@ -35,5 +35,6 @@
         <module>datasource-hikaricp</module>
         <module>jedis-cdi</module>
         <module>oci-objectstorage-cdi</module>
+        <module>coherence-cdi</module>
     </modules>
 </project>
